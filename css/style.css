@@ -1,5 +1,29 @@
-div{
+.header{
     background-color: aqua;
-    margin: 20px;
-    padding: 10px;
+    height: 55px;
+    display: flex;
+    
 }
+.logo-brand{
+    display: flex;
+}
+.logo{
+    display: inline;
+    
+}
+.logo img{
+    height: 50px;
+    width: auto;
+}
+.brand{
+    display: inline;
+}
+.nav-tem{
+    display: flex;
+    justify-content: end;
+    
+}
+.nav-item{
+    display: flex;
+}
+
